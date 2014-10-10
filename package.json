@@ -1,0 +1,9 @@
+{
+	"name": "StrangeDIMS",
+	"version": "0.0.1",
+	"main": "app.js",
+	"private": true,
+	"dependencies": {
+		"express": "=4.9.0"
+	}
+}

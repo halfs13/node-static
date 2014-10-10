@@ -1,4 +1,4 @@
 node-static
-===========
+=============
 
-Quick and dirty node static server
+A quick and dirty node static server
